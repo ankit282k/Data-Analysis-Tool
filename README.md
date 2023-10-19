@@ -1,5 +1,3 @@
-<img width="1343" alt="Screenshot 2023-10-19 at 3 07 03 PM" src="https://github.com/ankit282k/Data-Analysis-Tool/assets/84832902/654f2c11-aae2-45ca-8054-85e5e2778669"># Data-Analysis-Tool
-
 A Complete Solution for all the Data Analysis need using OPENAI API and Pandas AI.
 
 ## 🐼 PandasAI
